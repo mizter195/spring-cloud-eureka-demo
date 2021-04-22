@@ -1,0 +1,9 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: movie-catalog-service
+
+logging:
+  level: debug

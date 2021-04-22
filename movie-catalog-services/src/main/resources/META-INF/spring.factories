@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  duong.demo.moviecatalogservices.config.RestClientConfig
